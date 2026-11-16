@@ -368,13 +368,3 @@ https://doi.org/10.24014/ijaidm.v6i1.19803
 
 [7] T. A. D. Kurniawan, A. Setiawan, and F. Tita, "Perbandingan Kinerja Metode Support Vector Regression dan Metode Regresi Linier Berganda dalam Memprediksi BMI pada Dataset ASTHMA," *Jurnal Sains dan Edukasi Sains*, vol. 8, no. 2, pp. 133–142, 2025.  
 https://doi.org/10.24246/juses.v8i2p133-142
-
-### Portal Verifikasi Akreditasi Jurnal
-
-- Jurnal RESTI: https://sinta.kemdiktisaintek.go.id/journals/profile/11292
-- Jurnal Gaussian: https://sinta.kemdiktisaintek.go.id/journals/profile/8421
-- Indonesian Journal of Artificial Intelligence and Data Mining: https://sinta.kemdiktisaintek.go.id/journals/profile/6365
-- MALCOM: https://sinta.kemdiktisaintek.go.id/journals/profile/11292
-- Jurnal Sains dan Edukasi Sains: https://sinta.kemdiktisaintek.go.id/journals/profile/10288
-
-**Catatan:** Peringkat akreditasi jurnal dapat berubah mengikuti periode penilaian dan keputusan akreditasi terbaru.
